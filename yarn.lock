@@ -43,6 +43,10 @@ concat-map@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
 
+data.task@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/data.task/-/data.task-3.1.1.tgz#e985f5bedadd926b2d63c1a5d2076cff917a52ad"
+
 debug@2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.2.0.tgz#f87057e995b1a1f6ae6a4960664137bc56f039da"
